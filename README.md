@@ -29,7 +29,7 @@ The analysis begins at section 3; while each section has its own separate topic/
 
 Essential: Sections 3 and 4. Covers the most fundamental statistics for a user and their opening repertoire, the latter being the most important component of this notebook in my opinion.
 
-Interesting: Sections 6 and 7. These deal with engine evaluations and clock times, and whil they can be argued to be equally as useful as sections 3 and 4, the PGN files do not guarantee that engine evaluations or clock times will be recorded for all games. In fact, it's been reported that only 6% of games come with an engine evaluation (To get an engine evaluation in the PGN file, you need to have clicked "Request a Computer Analysis" for that game on LiChess at some point).
+Interesting: Sections 6 and 7. These deal with engine evaluations and clock times, and while they can be argued to be equally as useful as sections 3 and 4, the PGN files do not guarantee that engine evaluations or clock times will be recorded for all games. In fact, it's been reported that only 6% of games come with an engine evaluation (To get an engine evaluation in the PGN file, you need to have clicked "Request a Computer Analysis" for that game on LiChess at some point).
 
 For fun: Sections 5, 8 and 9. There is no analysis in these sections, but perhaps you can still take away something useful from them. They are interesting tools that each have their purpose outside of analysis, and hopefully you will have fun playing around with them as well.
 <br><br>
